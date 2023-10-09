@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Muhammad ali jinnah </title>
+</head>
+<body>
+   <h1> about! </h1>
+   <h2> about! </h2>
+   <h3> about! </h3>
+   <h4> about! </h4>
+   <h5> about! </h5>
+   
+   <p> <strong>"Quaid-e-Azam"</strong>; first Governor General of Pakistan,<br/> and the main founder of Pakistan. </p>
+   <p> His real name is Mohammad Ali Jinnah but widely known as<em> Quaid-e-Azam or Baba-e-Qoum</em><hr/> which means the father of the nation</p>
+   <p> Born: <b>December 25</b>, 1876, Karachi
+    Died: <i>September 11</i>, 1948, Karachi</p>
+   <p><cite>Jinnah lived for a time in Bombay with an aunt</cite> and may have attended the Gokal Das Tej Primary School there</p>
+   <p> <def title= "National Aeronautics and Space Administration"> nasa </def> Kennedy Space Center in Cape Canaveral, Florida, launches spacecraft around the Earth and beyond</p>
+   <h1>4xy<sup></sup></h1>
+   <h2>h<sub>2</sub></h2>
+   <abbr title="professor">prof</abbr><br/>
+   <acronym title=world health organization>who</acronym>
+   <p>My beloved Mom, <del>Mother</del>, <ins>you are truly God's gift to me.</ins> 
+   <s>Dear Mommy</s>, Your life has always revolved around me </p>
+   <adress>
+   written by:<a href="mailtoghorighori@gmail.com">
+   ghorighori</a><br/>
+   federal b area <br/>
+   karachi
+   </adress>
+   <h2> family </h2>
+   <ol>
+    <li>father</li>
+    <li>mother</li>
+    <li>sister</li>
+    <li>brother</li>
+   </ol>
+   <h3> names </h3>
+   <ul>
+    <li>irfan</li>
+    <li>saba</li>
+    <li>laiba</li>
+    <li>vardan</li>
+   </ul>
+   <h4>a nested list</h4>
+   <ul>
+    <li>coffee</li>
+    <li>tea</li>
+       <ul>
+         <li>black tea</li>
+         <li>green tea</li>
+       </ul>
+   <li>milk</li>
+   </ul>
+   <dt> css </dt>
+   <dd>CSS is a cornerstone <a technology of the World Wide Web a>, alongside HTML and JavaScript. </dd>
+   <dt>family</dt>
+   <dd>a group of one ../or more parents and their children living together as a unit</dd>
+   <p> once quaid e azam said <q>Think a hundred times before you take a decision, but once that decision is taken, stand by it as one man.</q></p>
+   <blockquote>
+   <p> once quaid e azam saidThere are two powers in the world; one is the sword, and the other is the pen. There is great competition between the two.
+    There is a third power stronger than both, that of the women.</p>
+   </blockqoute>
+</body>
+</html>
